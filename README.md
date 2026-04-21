@@ -77,17 +77,3 @@
 - 🎖️ **Sawiris Distinction Scholarship** (Academic Excellence)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-gadwal&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-gadwal&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-gadwal" />
-</p>
