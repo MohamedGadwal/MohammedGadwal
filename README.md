@@ -1,4 +1,4 @@
-<h1 align="center">💻 Mohamed Gadwal | AI & Software Engineer</h1>
+<h1 align="center">💻 Mohamed Gadwal | AI && Communication systems</h1>
 
 <p align="center">
   <b>Communication & Information Engineering Student @ Zewail City</b><br>
