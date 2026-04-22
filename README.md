@@ -69,7 +69,7 @@
 `DSP` • `FFT` • `FIR/IIR Filters`
 
 ### 🧠 Core Concepts
-`Data Structures` • `Algorithms` • `Statistical Inference`
+`Data Structures` • `Algorithms` • `Information Theory` 
 
 ---
 
