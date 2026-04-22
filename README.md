@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 CIE Student @ Zewail City (GPA: 3.67)
+- 🎓 CIE Student @ Zewail City
 - 🤖 Passionate about **AI, Machine Learning, and Data Systems**
 - 🧠 Strong background in **DSP, Algorithms, and System Design**
 - 📌 Currently seeking **internships in AI / Communication Systems**
